@@ -1,4 +1,4 @@
-# InboxGuru 📬🧠  
+# InboxGuru 
 
 **InboxGuru** is an AI-powered email prioritization and analysis tool that helps you stay on top of your inbox effortlessly. By analyzing email content, sender importance, and urgency indicators, InboxGuru ensures that you focus on what matters most while keeping your inbox organized.
 
